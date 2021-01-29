@@ -1,6 +1,6 @@
 # Fraud Detection
 
-A credit card fraud detection dataset exploration via Kaggle.
+An ongoing credit card fraud detection dataset exploration (via Kaggle).
 
 ## Dataset
 The dataset for this project was downloaded from [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud/data). The (creditcard.csv file) dataset contains transactions made by credit cards in September 2013 by european cardholders. The dataset presents transactions that occurred in two days, containing 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions. 
